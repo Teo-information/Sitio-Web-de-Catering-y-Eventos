@@ -1,0 +1,4 @@
+# Denegar acceso directo a archivos de configuración
+<Files "*">
+    Require all denied
+</Files>

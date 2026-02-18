@@ -1,0 +1,13 @@
+# Configuración local (credenciales)
+config/config.local.php
+
+# Backups
+backups/
+
+# IDE / Sistema
+.idea/
+.vscode/
+*.log
+
+*.bak
+img/
